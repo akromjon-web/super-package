@@ -1,0 +1,12 @@
+{
+  "name": "my-first-super-package-one",
+  "version": "1.0.0",
+  "description": "Bu package stringlar bilan ishlashga mo'ljanlangan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nodejs", "package", "string"],
+  "author": "AKROM MAMURJONOV",
+  "license": "ISC"
+}
